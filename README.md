@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astha2412" alt="astha2412" /></a> </p>
 
-- 🔭 I’m currently working as contributor in an open Source Contribution Program **GirlScript Winter of Contribution'21**
+- 🔭 I’m currently working as contributor in an Open Source Contribution Program **GWoC'21**
 
 - 🌱 I’m currently learning **Web Development**
 
