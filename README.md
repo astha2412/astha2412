@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Astha! Great to see u here!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astha2412&label=Profile%20views&color=0e75b6&style=flat" alt="astha2412" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astha2412" alt="astha2412" /></a> </p>
+
 
 - 🔭 I’m currently working as contributor in an Open Source Contribution Program **GWoC'21**
 
@@ -16,6 +16,8 @@
 - 📫 How to reach me **linkedin: https://www.linkedin.com/in/km-astha-rani-552662212/**
 
 <h3 align="left">Connect with me:</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astha2412" alt="astha2412" /></a> </p>
 <p align="left">
 <a href="https://fb.com/astha barnwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="astha barnwal" height="30" width="40" /></a>
 <a href="https://instagram.com/astha_barnwal_2412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="astha_barnwal_2412" height="30" width="40" /></a>
