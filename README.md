@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Astha! Great to see u here!</h1>
+<h1 align="center">Hi 👋, I'm Astha! </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astha2412&label=Profile%20views&color=0e75b6&style=flat" alt="astha2412" /> </p>
 
 
