@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working as contributor in an Open Source Contribution Program **GWoC'21**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development** & **DSA**
 
-- 👯 I’m looking to collaborate on **Open source projects**
+- 👯 I’m looking to collaborate on **Some cool Open source projects**
 
 - 🤝 I’m looking for help in **Competitive Programming**
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **C, C++, Git, Github**
 
 - 📫 How to reach me **linkedin: https://www.linkedin.com/in/km-astha-rani-552662212/**
 
