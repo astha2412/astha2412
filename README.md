@@ -32,6 +32,6 @@
    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=astha2412&show_icons=true&locale=en&layout=compact" alt="astha2412" /></p>
 
-/* <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astha2412&show_icons=true&locale=en" alt="astha2412" /></p>  */
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astha2412&" alt="astha2412" /></p>
