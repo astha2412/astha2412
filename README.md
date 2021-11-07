@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Astha! </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astha2412&label=Profile%20views&color=0e75b6&style=flat" alt="astha2412" /> </p>
 
 ### Āyubōvan!
-
                                  K U M A R I  A S T H A  R A N I ✨
                       Web Developer | Open Source Enthusiast | Explorer | Buzzing bee
-
-
 
 
 - 🔭 I’m currently working as contributor in an Open Source Contribution Program **GWoC'21**
@@ -20,6 +16,8 @@
 - 💬 Ask me about **C, C++, Git, Github**
 
 - 📫 How to reach me **linkedin: https://www.linkedin.com/in/km-astha-rani-552662212/**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=astha2412&label=Profile%20views&color=0e75b6&style=flat" alt="astha2412" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 
