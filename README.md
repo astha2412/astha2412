@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Astha! </h1>
-#  I am Astha , Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
+<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  I'm Astha! </h1>
+ 
 
 ### Āyubōvan!
                                  K U M A R I  A S T H A  R A N I ✨
