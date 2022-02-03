@@ -6,15 +6,17 @@
                       Web Developer | Open Source Enthusiast | Explorer | Buzzing bee
 
 
-- 🔭 I’m currently working as contributor in an Open Source Contribution Program **GWoC'21**
+- 🔭 I’m currently working as contributor in an Open Source Contribution Program **SWoC'21**
+
+- 🔭 Contributor in an Open Source Contribution Program **GWoC'21**
+
+- 🔭 Contributor in an Open Source Contribution Program **Hactoberfest'21**
 
 - 🌱 I’m currently learning **Web Development** & **DSA**
 
-- 👯 I’m looking to collaborate on **Some cool Open source projects**
+- 👯 I’m looking to collaborate on **Some Cool Open source projects**
 
-- 🤝 I’m looking for help in **Competitive Programming**
-
-- 💬 Ask me about **C, C++, Git, Github**
+- 💬 Ask me about **C, C++, Git, Github, JAVA**
 
 - 📫 How to reach me **linkedin: https://www.linkedin.com/in/km-astha-rani-552662212/**
 
