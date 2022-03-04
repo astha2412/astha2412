@@ -6,7 +6,7 @@
                       Web Developer | Open Source Enthusiast | Explorer | Buzzing bee
 
 
-- 🔭 I’m currently working as Mentor in an Open Source Contribution Program **GSSoC'21**
+- 🔭 I’m currently working as Mentor in an Open Source Contribution Program **GSSoC'22**
 
 - 🔭 Contributor in an Open Source Contribution Program **SWoC'21**
 
