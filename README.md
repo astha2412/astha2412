@@ -1,12 +1,17 @@
 <h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  I'm Astha! </h1>
  
-
+  
+   
+   
+   
 ### Āyubōvan!
                                  K U M A R I  A S T H A  R A N I ✨
                       Web Developer | Open Source Enthusiast | Explorer | Buzzing bee
 
 
 - 🔭 I’m currently working as Mentor in an Open Source Contribution Program **GSSoC'22**
+
+ <img align ="right" src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" width="350"/>
 
 - 🔭 Contributor in an Open Source Contribution Program **SWoC'21**
 
