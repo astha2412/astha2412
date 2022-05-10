@@ -33,8 +33,8 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astha2412" alt="astha2412" /></a> </p>-->
 <p align="left">
-<a href="https://fb.com/astha barnwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="astha barnwal" height="30" width="40" /></a>
-<a href="https://instagram.com/astha_barnwal_2412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="astha_barnwal_2412" height="30" width="40" /></a>
+<a href="https://www.facebook.com/aastha.barnwal.35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="astha barnwal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/itis.astha.barnwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="astha_barnwal_2412" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@asthabarnwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@asthabarnwal" height="30" width="40" /></a>
 </p>
 
