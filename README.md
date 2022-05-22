@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working as Mentor in an Open Source Contribution Program **GSSoC'22**
 
- <img align ="right" src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" width="350"/>
+ /* <img align ="right" src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" width="350"/> */
 
 - 🔭 Contributor in an Open Source Contribution Program **SWoC'21**
 
