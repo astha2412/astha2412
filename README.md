@@ -5,11 +5,11 @@
    
    
 ### Āyubōvan!
-                                 K U M A R I  A S T H A  R A N I ✨
+                                      K U M A R I  A S T H A  R A N I ✨
                       Web Developer | Open Source Enthusiast | Explorer | Buzzing bee
 
 
-- 🔭 I’m currently working as Mentor in an Open Source Contribution Program **GSSoC'22**
+- 🔭 Mentor in an Open Source Contribution Program **GSSoC'22**
 
 <!--   <img align ="right" src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" width="350"/> 
  -->
